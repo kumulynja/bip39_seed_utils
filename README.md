@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Bitcoin Development Kit (BDK) is the go-to library for Bitcoin applications written in Rust. 
+Bitcoin Development Kit (BDK) is the go-to library for Bitcoin application development written in Rust. 
 Packages in Flutter exist already that, similarly to this repo, use flutter_rust_bridge to bring the BDK Rust API to Flutter.
 This package however, instead of just exposing the Rust API, builds some extra functionality in Rust itself and exposes the API of that.
 It also focuses especifically on utilities for creating a unified Bitcoin/Lightning wallet instead of the whole BDK API.
