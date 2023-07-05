@@ -1,0 +1,2 @@
+[workspace]
+members = ["packages/bip39_seed_utils/native"]
